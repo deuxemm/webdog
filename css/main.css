@@ -1,0 +1,19 @@
+/* this is a css comment */
+
+div {
+  width: 400px;
+  height: 200px;
+  background-color: teal;
+  /* border-radius: 50px; */
+  border: 5px  dashed red;
+  margin: 20px;
+  background-image: url("../img/dog-pug.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.nogrow  {
+  box-sizing: border-box
+
+}
